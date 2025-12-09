@@ -1,0 +1,13 @@
+{
+  "learning_rate": 5e-5,
+  "weight_decay": 0.1,
+  "batch_size": 1,
+  "num_epochs": 1,
+  "max_seq_length": 128,
+  "max_grad_norm": 1.0,
+  "logging_steps": 10,
+  "save_steps": 1,
+  "tokenizer_path": "meta-llama/Meta-Llama-3-8B",
+  "dataset_path": "wikitext",
+  "output_model_path": "llama3_8b_trained.pt"
+}

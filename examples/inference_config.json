@@ -1,0 +1,5 @@
+{
+  "model_path": "llama3_8b_trained.pt",
+  "tokenizer_path": "meta-llama/Meta-Llama-3-8B",
+  "max_seq_length": 2048
+}

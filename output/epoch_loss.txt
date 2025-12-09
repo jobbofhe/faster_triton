@@ -1,0 +1,10 @@
+Epoch 0, Average Train Loss: 251.74470703125
+Epoch 1, Average Train Loss: 248.1614423828125
+Epoch 2, Average Train Loss: 244.769689453125
+Epoch 3, Average Train Loss: 241.718169921875
+Epoch 4, Average Train Loss: 239.1271904296875
+Epoch 5, Average Train Loss: 237.07221484375
+Epoch 6, Average Train Loss: 235.5700654296875
+Epoch 7, Average Train Loss: 234.593484375
+Epoch 8, Average Train Loss: 234.0610712890625
+Epoch 9, Average Train Loss: 233.8495595703125
